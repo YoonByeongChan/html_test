@@ -1,0 +1,17 @@
+html{
+    font-size: 16px;
+}
+body,figure,p,h1,h2,h3{margin:0px;}
+ul,li{
+    margin:0; padding: 0;
+    list-style: none;
+}
+img{vertical-align: middle;}
+a{
+    color: #0000;
+    text-decoration: none;
+}
+
+*{
+    box-sizing: border-box;
+}
